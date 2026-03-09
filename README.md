@@ -1,6 +1,12 @@
 # Sewer
 A guitar effects pedal, based on the Proco-Rat, with custom mods for use with Bass and noise reduction
 
+Version 2 makes some incremental improvements:
+- SMD Layout for most of the board
+- Mix knob converted to additive opamp clean blend for ease of use and to prevent volume drop when turning up clean mix
+- Bass Switch simplified and made internal
+- Better fit and finish
+
 
 Specifications:
 - Designed for a Hammond 125B enclosure with top mounted jacks
@@ -11,8 +17,3 @@ Specifications:
 - Buffered clean blend
 - Switchable distortion bass boost changes how much bass is distorted
 - Swichable clipping diodes (by default either standard 1N914 or turbo-rat style red LEDs)
-
-Known Issues in v1 (to be fixed in v2!)
-- Changing Mix control changes output volume
-- Mechanical lineup for the bass switch is too tight
-- Bass switch should probably be internal
