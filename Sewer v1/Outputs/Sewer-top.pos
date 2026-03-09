@@ -1,0 +1,55 @@
+### Footprint positions - created on 2025-12-14T11:45:57+0200 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                                                PosX       PosY       Rot  Side
+C1        22n           C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2    42.3250  -117.2000   90.0000  top
+C2        1n            C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2    48.4250  -106.7000   90.0000  top
+C3        100p          C_CERAMIC_DISC_D3.0mm_W1.6mm_P2.50mm                75.0250   -90.4500   90.0000  top
+C4        2u2           CP_Radial_D5.0mm_P2.00mm                            89.6250   -81.0000  -90.0000  top
+C5        4u7           CP_Radial_D5.0mm_P2.00mm                            78.4250   -78.6000   90.0000  top
+C6        4u7           CP_Radial_D5.0mm_P2.00mm                            55.0250   -75.9000  -90.0000  top
+C7        10u           CP_Radial_D5.0mm_P2.50mm                            83.6250   -82.4051   90.0000  top
+C8        4u7           CP_Radial_D5.0mm_P2.00mm                            76.7250   -94.8000  -90.0000  top
+C9        3n3           C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2    90.1250  -118.0000   90.0000  top
+C10       22n           C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2    86.6250  -118.0000   90.0000  top
+C11       1u            C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2    54.6250   -88.0000  -90.0000  top
+C101      470n          C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2    57.0250  -101.6900  -90.0000  top
+C102      100n          C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2    52.1250  -106.7000   90.0000  top
+C201      100u          CP_Radial_D5.0mm_P2.50mm                            51.7250   -81.9949  -90.0000  top
+C202      100n          C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2    60.5250   -90.2000  -90.0000  top
+C203      47u           CP_Radial_D5.0mm_P2.50mm                            46.6250   -88.4000  -90.0000  top
+D1        1N914         D_DO-35_SOD27_P7.62mm_Horizontal                    74.3250  -108.3100   90.0000  top
+D2        1N914         D_DO-35_SOD27_P7.62mm_Horizontal                    77.6250  -100.6900  -90.0000  top
+D3        LED           LED_D3.0mm                                          82.1250  -100.7600  -90.0000  top
+D4        LED           LED_D3.0mm                                          82.1250  -106.3000  -90.0000  top
+Q1        J201          SOT-23_Handsoldering                                73.2250  -117.1500  -90.0000  top
+Q101      J201          SOT-23_Handsoldering                                62.2250  -117.1500  -90.0000  top
+Q102      J201          SOT-23_Handsoldering                                67.7250  -117.1500  -90.0000  top
+R1        1M            RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       42.3250  -108.0100   90.0000  top
+R2        1k            RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       45.2250  -100.3900  -90.0000  top
+R3        47R           RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       81.1250   -93.1100   90.0000  top
+R4        560R          RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       90.0350   -77.1000  180.0000  top
+R5        560R          RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       59.5250   -83.5100   90.0000  top
+R6        270R          RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       77.6250   -89.4100   90.0000  top
+R7        1k            RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       92.9250   -93.4100   90.0000  top
+R8        1k5           RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       92.9250  -111.3900  -90.0000  top
+R9        1M            RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       83.5250  -119.4100   90.0000  top
+R10       10k           RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       80.7250  -111.8000  -90.0000  top
+R101      10M           RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       47.8250  -110.6900  -90.0000  top
+R102      1M            RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       52.7250  -118.3200   90.0000  top
+R103      1M            RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       50.2250  -110.7000  -90.0000  top
+R104      10k           RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       45.2250  -118.3100   90.0000  top
+R105      10k           RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       55.2250  -118.3000   90.0000  top
+R201      47R           RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       47.1250   -75.5800  -90.0000  top
+R202      100k          RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       44.5250   -75.5800  -90.0000  top
+R203      100k          RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       42.1250   -83.2100   90.0000  top
+RV1       BLEND_B100k   POT_16MM                                            47.4050   -96.8000    0.0000  top
+RV2       DIST_A100k    POT_16MM                                            88.0450   -71.4000    0.0000  top
+RV3       TONE_A100k    POT_16MM                                            88.0450   -96.8000    0.0000  top
+RV4       VOLUME_A100k  POT_16MM                                            47.4050   -71.4000    0.0000  top
+R_CLR     4.7k          RES_0.25watt_L3.6mm_D1.6mm_P7.62mm_Horizontal       78.1250  -111.7900  -90.0000  top
+SW1       SW_DPDT_x2    DPDT.LUGS                                           67.7290   -80.9000   90.0000  top
+SW2       SW_SPDT       SW_SPDT                                             67.7290  -106.3000  180.0000  top
+U1        OP07          DIP-8_W7.62mm                                       63.9250   -87.4000    0.0000  top
+## End
